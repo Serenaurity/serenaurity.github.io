@@ -1,0 +1,13 @@
+*
+!.gitignore
+!.nojekyll
+!index.html
+!style.css
+!script.js
+!repo-snapshot.js
+!LICENSE
+!README.md
+!SOURCES.md
+!assets/
+!assets/**
+assets/project-mockups/
