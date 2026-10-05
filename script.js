@@ -12,8 +12,8 @@
   const snapshot = Array.isArray(window.PORTFOLIO_REPOS) ? window.PORTFOLIO_REPOS : [];
   const apiUrl = "https://api.github.com/users/Serenaurity/repos?per_page=100";
   const repoNotes = {
-    "cve-attack-role-kg": { label: "Research benchmark · In progress", text: "Role-aware CVE→MITRE ATT&CK ranking benchmark; source snapshots and a reference harness are present, while ingestion, baselines, ranking, and model results remain in progress." },
-    "kaishi-drill": { label: "Prototype", text: "Single-file active-recall prototype for a Kaishi Anki export, with local audio and a localStorage heatmap; translation feedback uses a keyword-overlap heuristic." },
+    "cve-attack-role-kg": { label: "Research benchmark · W3 foundation on main", text: "Role-aware CVE→MITRE ATT&CK technique-ranking project. Reported work/w8-ablations results are commit-pinned separately; ablations attribute the hybrid gain over text-only ranking to platform (CPE) features, not graph structure." },
+    "kaishi-drill": { label: "Built application", text: "Type-first Anki review application built with React, Vite, TypeScript, and FSRS, with reading, kana, and translation drills, audio, and an activity heatmap." },
     "serenium-core": { label: "Design spec + scene prototype", text: "AI-OS desktop design exploration with a reported 2,912-node and 9,052-edge wiki-link snapshot; no full application code is represented as complete." },
     "sql-online-sale-analysis": { label: "SQL study", text: "AI-assisted SQL review and documentation project; its README states that queries, calculations, and findings were checked against dataset outputs." },
     "chinook-sql": { label: "Training project", text: "MySQL Workbench practice using the Chinook sample database, covering sales trends and basic data-quality checks." },
