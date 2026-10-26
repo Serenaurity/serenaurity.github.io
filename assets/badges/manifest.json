@@ -158,5 +158,45 @@
     "file": "network.svg",
     "width": 173.75,
     "source": "Supplied CV, Skills section"
+  },
+  {
+    "label": "DuckDB",
+    "message": "SQL engine",
+    "url": "https://img.shields.io/badge/DuckDB-SQL%20engine-8C7A00?style=for-the-badge&logo=duckdb&logoColor=white",
+    "file": "duckdb.svg",
+    "width": 197.0,
+    "source": "Supplied CV (19 October 2026), Skills section"
+  },
+  {
+    "label": "MySQL",
+    "message": "Database",
+    "url": "https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white",
+    "file": "mysql.svg",
+    "width": 174.25,
+    "source": "Supplied CV (19 October 2026), Skills section"
+  },
+  {
+    "label": "MongoDB",
+    "message": "NoSQL",
+    "url": "https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white",
+    "file": "mongodb.svg",
+    "width": 171.0,
+    "source": "Supplied CV (19 October 2026), Skills section"
+  },
+  {
+    "label": "TypeScript",
+    "message": "Apps",
+    "url": "https://img.shields.io/badge/TypeScript-Apps-3178C6?style=for-the-badge&logo=typescript&logoColor=white",
+    "file": "typescript.svg",
+    "width": 172.5,
+    "source": "Supplied CV (19 October 2026), Skills section"
+  },
+  {
+    "label": "XGBoost",
+    "message": "Boosting",
+    "url": "https://img.shields.io/badge/XGBoost-Boosting-2C7FB8?style=for-the-badge",
+    "file": "xgboost.svg",
+    "width": 176.75,
+    "source": "Supplied CV (19 October 2026), Skills section"
   }
 ]

@@ -14,11 +14,15 @@ Publish only: index.html, style.css, script.js, repo-snapshot.js, .nojekyll, .gi
 
 ## Images
 
-Owner-supplied profile: `assets/profile.jpg`. Five project screenshots/figures live in `assets/project-images/`; their full-size links and captions are in index.html. Originals are preserved locally. Previous SVG mockups are retained locally but excluded from publication.
+Owner-supplied profile: `assets/profile.jpg`. Nine project screenshots/figures live in `assets/project-images/`; their full-size links and captions are in index.html. Originals are preserved locally. Previous SVG mockups are retained locally but excluded from publication.
+
+## Print / PDF
+
+`style.css` has print rules that show every tab except Contact and hide the tab bar and repository controls, so the browser's Print → Save as PDF gives the whole portfolio. Tick "Background graphics" if the browser asks.
 
 ## Contact
 
-FormSubmit targets serenaurity.will@gmail.com. Recipient activation and actual delivery have not been verified. Do not submit test messages without authorization.
+FormSubmit targets naphat.jak.work@gmail.com (changed 26 October 2026). FormSubmit sends a one-time activation email to that address on the first submission; until it is confirmed, messages are not delivered. Do not submit test messages without authorization.
 
 ## Attribution
 
